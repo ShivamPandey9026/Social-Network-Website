@@ -1,1 +1,12 @@
-# Social-Network-Website
+SOCIAL NETWORKING SITE IN PHP
+
+LOGIN DETAILS
+
+For login, you need to register and create account first .
+
+*Developed By Shivam Pandey*
+
+CREATE A DATABASE NAMING "socialnetwork" AND IMPORT THE SQL FILE FROM DBFOLDER AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+#THANK YOU
